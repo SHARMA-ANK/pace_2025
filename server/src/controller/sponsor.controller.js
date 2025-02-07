@@ -80,7 +80,7 @@ const getDetails = asyncHandler(async (req, res) => {
         📩 <a href="mailto:pace2k25@gmail.com" style="color: #007BFF; text-decoration: none;">pace2k25@gmail.com</a><br/>
         🌐 <a href="https://www.pace2025.in" style="color: #007BFF; text-decoration: none;">www.pace2025.in</a><br/>
         <br/>
-        Let’s make PACE 2025 unforgettable, together. 🎉
+        Let’s make PACE 2025 unforgettable, together. 
     </p>
 </div>
 
