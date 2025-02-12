@@ -56,7 +56,7 @@ const getDetails = asyncHandler(async (req, res) => {
   
   res.status(200).json({
     success: true,
-    message: "Sponsorship request received. An email has been sent.",
+    message: "Sponsorship request received. Check your given email inbox or spam folder.",
   });
 });
 
